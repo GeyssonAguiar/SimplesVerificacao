@@ -35,5 +35,5 @@ function validaVariavel ($variavel, $funcValidaTipo = 'string', $validaIndice = 
         }
     }
 
-    echo $resultado;
+    echo $resultado . PHP_EOL;
 }
